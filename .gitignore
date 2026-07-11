@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Dynamic input
+# input/links.txt
+
+# Generated exports
+# exports/
+
+# Generated scraper output
+# pdfs/
+# screenshots/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
